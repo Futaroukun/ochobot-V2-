@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6281215626270@s.whatsapp.net", 
-    "ownerName": "Denara Bot", 
-    "botName": "Ocho-Bot",
-    "footer": "© OCHOBOT | 2022", 
+    "ownerNumber": "6283854551575@s.whatsapp.net", 
+    "ownerName": "A7 RAFLI", 
+    "botName": "Hu Tao Bot-MD",
+    "footer": "© Hu Tao Bot-MD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Denara Bot"
+        "packname": "Di buat oleh",
+        "author": "© Hu Tao Bot-MD"
     }
 }
